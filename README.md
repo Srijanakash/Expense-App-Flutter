@@ -7,6 +7,7 @@ This is built with the help of "Flutter and Dart - The Complete Guide [2020 Edit
 
 ### Final Result
 
-![screenshot](https://user-images.githubusercontent.com/33724590/84068713-0a166200-a9e7-11ea-8140-69ff1a41204f.png)
+<img width="280" alt="screenshot" src="https://user-images.githubusercontent.com/33724590/84069170-bbb59300-a9e7-11ea-8831-ae75d8350f97.png">
+
 
 

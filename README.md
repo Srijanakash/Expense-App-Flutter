@@ -2,8 +2,10 @@
 
 ###
 This is a simple app for keeping a tab on weekly expenses.
+The required .dart files are in the lib folder.
 
 This is built with the help of "Flutter and Dart - The Complete Guide [2020 Edition]" course in Udemy by Maximilian Schwarzmüller.
+
 
 ### Final Result
 

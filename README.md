@@ -1,16 +1,12 @@
-# expenses_app
+# Expenses App
 
-A new Flutter project.
+###
+This is a simple app for keeping a tab on weekly expenses.
 
-## Getting Started
+This is built with the help of "Flutter and Dart - The Complete Guide [2020 Edition]" course in Udemy by Maximilian Schwarzmüller.
 
-This project is a starting point for a Flutter application.
+### Final Result
 
-A few resources to get you started if this is your first Flutter project:
+![screenshot](https://user-images.githubusercontent.com/33724590/84068713-0a166200-a9e7-11ea-8140-69ff1a41204f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
